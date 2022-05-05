@@ -10,5 +10,9 @@
    "localhost": {
       "message": "hello from localhost",
       "matchmaker_url": "https://preview.yom.community/"
+   },
+   "bartuortal.com": {      
+      "message": "hello from bartuortal.com",
+      "matchmaker_url": "https://worldle.teuteuf.fr/"
    }
 }
