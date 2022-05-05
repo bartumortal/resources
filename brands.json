@@ -1,10 +1,14 @@
 {
    "adasis.com": {
-      "message": "orospu cocugu bartu from adasis.com",
-      "matchmaker_url": "https://preview.yom.community/"
+      "message": "hello from adasis.com",
+      "matchmaker_url": "https://www.adidas.nl/"
    },
    "Rohan Originals'": {
-      "message": "orospu cocugu bartu from Rohan Originals'",
+      "message": "hello from Rohan Originals'",
       "matchmaker_url": "https://krunker.io/"
+   },
+   "localhost": {
+      "message": "hello from localhost",
+      "matchmaker_url": "https://preview.yom.community/"
    }
 }
