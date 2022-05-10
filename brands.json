@@ -13,6 +13,6 @@
    },
    "bartuortal.com": {      
       "message": "hello from bartuortal.com",
-      "matchmaker_url": "https://worldle.teuteuf.fr/"
+      "matchmaker_url": "http://localhost/"
    }
 }
