@@ -1,15 +1,18 @@
 {
    "adasis.com": {
       "message": "hello from adasis.com",
-      "matchmaker_url": "https://www.nytimes.com/games/wordle/index.html"
+      "matchmaker_url": "https://www.nytimes.com/games/wordle/index.html",
+      "whitelisted_domain": "https://nytimes.com/*"
    },
    "Rohan Originals'": {
       "message": "hello from Rohan Originals'",
-      "matchmaker_url": "https://krunker.io/"
+      "matchmaker_url": "https://krunker.io/",
+      "whitelisted_domain": "https://krunker.io:*"
    },
    "localhost": {
       "message": "hello from localhost",
-      "matchmaker_url": "https://preview.yom.community/"
+      "matchmaker_url": "https://preview.yom.community/",
+      "whitelisted_domain": "https://localhost:*"
    },
    "bartuortal.com": {      
       "message": "hello from bartuortal.com",
