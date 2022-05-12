@@ -13,6 +13,7 @@
    },
    "bartuortal.com": {      
       "message": "hello from bartuortal.com",
-      "matchmaker_url": "http://localhost/"
+      "matchmaker_url": "http://localhost/",
+      "whitelisted_domain": "http://bartuortal.com:*"
    }
 }
