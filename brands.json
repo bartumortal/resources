@@ -16,7 +16,7 @@
    },
    "bartuortal.com": {      
       "message": "hello from bartuortal.com",
-      "matchmaker_url": "http://localhost/",
+      "matchmaker_url": "http://localhost/?solanaPublicKey=1234g23tq345",
       "whitelisted_domain": "http://bartuortal.com:*"
    }
 }
