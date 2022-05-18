@@ -19,4 +19,9 @@
       "matchmaker_url": "http://localhost/?solanaPublicKey=1234g23tq345",
       "whitelisted_domain": "http://bartuortal.com:*"
    }
+   "YOM Marketplace": {
+      "message": "hello from YOM Marketplace",
+      "matchmaker_url": "https://preview.yom.community/",
+      "whitelisted_domain": "https://white-plant-02a581b03.azurestaticapps.net/"
+   }
 }
